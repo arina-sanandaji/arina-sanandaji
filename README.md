@@ -57,6 +57,9 @@
 
 ---
 
+
+---
+
 ### 💌 Connect With Me
 
 <div align="center">
@@ -66,16 +69,17 @@
 </a>
 
 <a href="mailto:arinasanandaji@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-arinasanandaji%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+♡ Let's connect and create something beautiful ♡
 
 🎀 Feel free to reach out!
 
-♡ Let's connect and create something beautiful ♡
+</div>
+
 
 </div>
 
