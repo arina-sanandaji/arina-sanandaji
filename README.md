@@ -1,90 +1,62 @@
 
 <div align="center">
 
-# 🎀 Hi, I'm Arina! ♡
+# Arina Sanandaji
+### Computer Engineering Student | UI/UX Designer
 
-### 🌷 Computer Engineering Student
+<p>
+  <i>Designing with purpose, developing with passion.</i>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&size=22&pause=1000&color=E8A0BF&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+world+%E2%99%A1;UI%2FUX+Designer+%F0%9F%8E%A8;Future+Software+Developer+%F0%9F%92%97" />
-
-</div>
-
----
-
-### 🌸 About Me
-
-- 🎀 I'm a Computer Engineering student.
-- 🎨 Specialized in UI/UX Design.
-- 💗 Passionate about beautiful and user-friendly interfaces.
-- 💻 Currently learning Python, Django & React.
-- 🌷 Building my own web development projects.
-- 🦋 Interested in Artificial Intelligence & Software Engineering.
-- ☁️ Learning, dreaming and growing one line of code at a time.
-
----
-
-### 💻 My Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,git,github,vscode,figma&theme=light" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8DDE8&height=3&section=header" width="100%"/>
 
 </div>
 
----
+## About Me
+
+- 🎓 Computer Engineering Student
+- 🎨 Specialized in UI/UX Design
+- 💻 Learning Backend Development with Django
+- ⚛️ Working with React and Python
+- 🌱 Interested in Artificial Intelligence and Software Engineering
+- ✨ Passionate about creating meaningful digital experiences
+
+## Technologies & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,figma,git,github,vscode&theme=light"/>
+</p>
+
+## GitHub Statistics
 
 <div align="center">
 
-♡ Thanks for visiting my little corner of GitHub ♡
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=arina-sanandaji&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-🎀 Keep dreaming, keep coding! 🎀
-
----
-
-### 💗 My GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arina-sanandaji&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arina-sanandaji&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arina-sanandaji&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </div>
 
-<div align="center">
+## Connect With Me
 
-♡ Keep dreaming, keep coding! ♡
-
----
-
-
----
-
-### 💌 Connect With Me
-
-<div align="center">
+<div align="left">
 
 <a href="https://www.instagram.com/arina._.design/">
-<img src="https://img.shields.io/badge/Instagram-@arina._.design-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-arina._.design-E8A0BF?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="mailto:arinasanandaji@gmail.com">
-<img src="https://img.shields.io/badge/Email-arinasanandaji%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact%20Me-E8A0BF?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
-
-♡ Let's connect and create something beautiful ♡
-
-🎀 Feel free to reach out!
-
 </div>
 
+---
 
-</div>
+<div align="center">
 
+<i>Building ideas into meaningful experiences.</i>
 
-</div>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=F8DDE8&height=3&section=footer" width="100%"/>
 
 </div>
