@@ -39,4 +39,23 @@
 
 🎀 Keep dreaming, keep coding! 🎀
 
+---
+
+### 💗 My GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=arina-sanandaji&show_icons=true&theme=rose_pine&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arina-sanandaji&layout=compact&theme=rose_pine&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+♡ Keep dreaming, keep coding! ♡
+
+</div>
+
+
 </div>
