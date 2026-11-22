@@ -55,6 +55,31 @@
 
 ♡ Keep dreaming, keep coding! ♡
 
+---
+
+### 💌 Connect With Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/arina._.design/">
+<img src="https://img.shields.io/badge/Instagram-@arina._.design-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:arinasanandaji@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<div align="center">
+
+🎀 Feel free to reach out!
+
+♡ Let's connect and create something beautiful ♡
+
+</div>
+
+
 </div>
 
 
